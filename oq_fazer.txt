@@ -1,0 +1,4 @@
+- ajeitar o tamanho da imagem
+- ajeitar o nome 
+- ajeitar o botao 
+- O texto de cima (tamanho , fonte ,centralizar)
